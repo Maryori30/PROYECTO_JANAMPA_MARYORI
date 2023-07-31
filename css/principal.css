@@ -1,0 +1,143 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+   
+}
+header{
+    background-image:url(https://media.istockphoto.com/id/468599522/es/foto/panorama-del-inca-machu-picchu-p%C3%A9rdida-de-la-ciudad-en-los-andes.jpg?s=612x612&w=0&k=20&c=Q9BgToJB-7MPFblD16OMkKUVr_fXpz3zpAQguT36Bj0=);
+    opacity:0.9;
+    width: 94%;
+    height:100px;
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Lugrasimo', cursive;
+    text-shadow: 5px 5px 3px yellow;
+    padding:40px; 
+    color:black;
+    
+    
+}
+nav ul{
+    list-style-type:none;
+    text-align:center;
+    width: 100%;
+    background-color: #757575;
+}
+nav li{
+    display: inline-flex;
+    font-size:17px;
+}
+nav ul li a{
+    text-decoration:none;
+    color:white;
+    padding:10px;
+    width: 150px;
+    transition-property: all;
+    transition-duration:1600ms;
+}
+nav ul li a:hover{
+    opacity:0.8;
+    background-color:rgb(169, 248, 112);
+    color:white;
+}
+body{
+    background-image: url(../img/fffffff2.jpeg);
+    
+}
+.contenido{
+    display:flex;
+    margin:40px;
+    font-size: 21px;
+    text-align: justify;
+}
+.secciones{
+    width:100%;
+    border-right: 2px solid black;
+}
+.img{
+    width:200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit:cover; /*circular mas formado*/
+}
+table{
+    margin-left:200px;
+    border-collapse: collapse;
+    background-color:rgb(165, 238, 123);
+    border: 3px solid olive;
+}
+table td{
+    font-size: 21px;
+    padding:10px;
+    border: 3px solid olive;
+}
+table th{
+    font-size: 21px;
+    padding:10px;
+    border: 3px solid olive;
+}
+.articulos{
+    display:flex;
+    align-items:center;
+    padding:20px 70px 20px 40px;
+}
+.articulo2{
+    align-items:center;
+    padding:20px 70px 20px 40px;
+}
+
+.red{
+    font-size:32px;
+    font-family: 'Dancing Script', cursive;
+    text-decoration: underline;
+    color:  rgb(106, 18, 18);
+}
+.menusecundario{
+    width:30%;
+    margin-top:60px;
+    margin-left: 20px;
+}
+.menusecundario a{
+    color:white;
+    display:block;
+    text-align:left;
+    margin-bottom:20px;
+    color:rgb(20, 20, 63);
+    font-size: 19px;
+    font-weight: bold;
+}
+aside h4{
+    color:  rgb(106, 18, 18);
+    font-weight: bold;
+}
+.img2{
+    margin-left:300px;
+    border:rgb(103, 103, 225) 5px ;
+    border-style: solid;
+}
+.img5{
+    border:5px solid yellow;
+    margin-left:340px;
+}
+.img4{
+    border:5px solid rgb(241, 56, 124);
+    margin-left:320px;
+}
+aside ul{
+    margin-left:10px;
+}
+footer{
+    background-color:rgb(234, 240, 50);
+    height: 130px;
+    padding:25px;
+    font-size:21px;
+}
+.imgx{
+   float:left;
+   margin-right: 7px;
+}
+.imgxx{
+    float:left;
+    margin-right: 7px;
+ }
+

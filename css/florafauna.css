@@ -1,0 +1,205 @@
+*{
+    margin: 0px;
+}
+header{
+    /*background-image:url(https://media.istockphoto.com/id/468599522/es/foto/panorama-del-inca-machu-picchu-p%C3%A9rdida-de-la-ciudad-en-los-andes.jpg?s=612x612&w=0&k=20&c=Q9BgToJB-7MPFblD16OMkKUVr_fXpz3zpAQguT36Bj0=);*/
+    background-color:rgb(230, 163, 246);
+    width: 92.5%;
+    height:80px;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 57px;
+    text-shadow: 5px 5px 3px rgb(179, 26, 221);
+    padding: 50px; 
+    color:black; 
+}
+.img0{
+    float:left;
+    margin-top:0px;
+    border:none;
+ 
+}
+.img00{
+    float:right;
+    margin-top:0px;
+    border:none;
+}
+body{
+    background-image: url(../img/fffffff2.jpeg);
+}
+.contenido{
+    margin:40px;
+    margin-left:100px;
+   
+}
+main img{
+    margin:30px;
+    border:7px rgb(255, 255, 255) solid;
+    border-radius:50%
+}
+.caja1{
+    border:1px solid black;
+    background-color: rgb(239, 246, 37);   
+    width: 430px;
+    height: 220px;
+    float:left;
+    margin:30px;
+    margin-right: 120px;
+    padding: 25px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+}
+.caja2{
+    border:1px solid black;
+    background-color: rgb(169, 241, 62);
+    width: 430px;
+    height: 220px;
+    float:right; 
+    padding: 25px;
+    margin:30px;
+    margin-right: 100px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+    
+}
+.caja3{
+    border:1px solid black;
+    background-color: rgb(92, 231, 241);   
+    width: 430px;
+    height: 220px;
+    float:left;
+    margin:30px;
+    margin-right: 120px;
+    padding: 25px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+}
+.caja4{
+    border:1px solid black;
+    background-color: rgb(243, 198, 49);
+    width: 430px;
+    height: 220px;
+    float:right; 
+    padding: 25px;
+    margin:30px;
+    margin-right: 100px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+}
+.caja5{
+    border:1px solid black;
+    background-color: rgb(238, 78, 118);   
+    width: 430px;
+    height: 220px;
+    float:left;
+    margin:30px;
+    margin-right: 120px;
+    padding: 25px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+}
+.caja6{
+    border:1px solid black;
+    background-color: rgb(98, 105, 238);
+    width: 430px;
+    height: 220px;
+    float:right; 
+    padding: 25px;
+    margin:30px;
+    margin-right: 100px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+}
+.caja7{
+    border:1px solid black;
+    background-color: rgb(227, 114, 245);   
+    width: 430px;
+    height: 220px;
+    float:left;
+    margin:30px;
+    margin-right: 120px;
+    padding: 25px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+}
+.caja8{
+    border:1px solid black;
+    background-color: yellow;
+    width: 430px;
+    height: 220px;
+    float:right; 
+    padding: 25px;
+    margin:30px;
+    margin-right: 100px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+}
+.caja9{
+    border:1px solid black;
+    background-color: rgb(91, 240, 146);   
+    width: 430px;
+    height: 220px;
+    float:left;
+    margin:30px;
+    margin-right: 120px;
+    padding: 25px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+    
+
+}
+h1{
+    color: rgb(136, 29, 83);
+    font-size:60px;
+    text-align: center;
+    background-color: rgb(135, 237, 203);
+    
+}
+h3{
+    text-align: center;
+    font-size:25px;
+    text-decoration: underline;
+    font-family: 'Borel', cursive;
+    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-family: 'Josefin Sans', sans-serif;
+}
+div:hover{
+    background-color: rgb(183, 169, 169);
+}
+div{
+    box-shadow: 5px 5px 5px  black;
+}
+h2{
+    color: rgb(136, 29, 83);
+    font-size:50px;
+    text-align: center;
+    background-color: rgb(135, 237, 203);
+}
+iframe{
+    margin-left:300px;
+    border:7px solid white;
+}
+footer{
+    background-color:rgb(230, 163, 246);
+    height: 130px;
+    padding:25px;
+    font-size:21px;
+}
+.imgx{
+    float:left;
+    margin-right: 7px;
+ }
+.imgxx{
+     float:left;
+     margin-right: 7px;
+  }

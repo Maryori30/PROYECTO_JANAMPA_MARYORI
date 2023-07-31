@@ -1,0 +1,102 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+   
+}
+header{
+    /*background-image:url(https://media.istockphoto.com/id/468599522/es/foto/panorama-del-inca-machu-picchu-p%C3%A9rdida-de-la-ciudad-en-los-andes.jpg?s=612x612&w=0&k=20&c=Q9BgToJB-7MPFblD16OMkKUVr_fXpz3zpAQguT36Bj0=);*/
+    background-color:rgb(241, 202, 74);
+    width: 95.5%;
+    height:100px;
+  font-family: 'Russo One', sans-serif;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 5px 5px 3px rgb(191, 234, 107);
+    padding:30px; 
+    color:black;  
+    
+   
+}
+body{
+    background-image: url(../img/fffffff2.jpeg);
+    
+}
+.contenido{
+    margin:40px;
+    font-size: 21px;
+    text-align: justify;
+}
+h3{
+    text-align: center;
+    color:rgb(32, 97, 49);
+    font-size:35px;
+    text-decoration: underline;
+    font-family: 'IBM Plex Serif', serif;
+    background: rgb(224, 242, 135);
+    padding:5px;
+}
+.img1{
+    margin:20px;
+    margin-left:37%;
+    border:7px solid rgb(208, 228, 28);
+    border-radius: 15px;
+}
+.img2{
+    margin:20px;
+    margin-left:37%;
+    border:7px solid rgb(23, 157, 164);
+    border-radius: 15px;
+}
+.img3{
+    margin:20px;
+    float:right;
+    border:7px solid rgb(176, 41, 41);
+    border-radius: 15px;
+}
+.img4{
+    margin:0px 20px 20px 20px ;
+    float:left;
+    border:7px solid rgb(146, 7, 141);
+    border-radius: 15px;
+}
+.img5{
+    margin:20px;
+    border:7px solid rgb(212, 126, 14);
+    margin-left: 300px;
+    border-radius: 15px;
+}
+.img6{
+    margin:20px;
+    border:7px solid rgb(221, 61, 61);
+    margin-left: 100px;
+    border-radius: 15px;
+}
+.img0{
+    float:left;
+    border:5px solid white;
+    border-radius: 15px;
+
+}
+.img00{
+    float:right;
+    border:5px solid white;
+    border-radius: 15px;
+}
+footer{
+    background-color:rgb(241, 202, 74);
+    height: 130px;
+    padding:25px;
+    font-size:21px;
+}
+iframe{
+    margin-left:350px;
+    border:7px solid rgb(61, 56, 56);
+}
+.imgx{
+    float:left;
+    margin-right: 7px;
+ }
+ .imgxx{
+     float:left;
+     margin-right:7px;
+  }

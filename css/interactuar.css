@@ -1,0 +1,117 @@
+*{
+    margin: 0px;
+}
+header{
+    /*background-image:url(https://media.istockphoto.com/id/468599522/es/foto/panorama-del-inca-machu-picchu-p%C3%A9rdida-de-la-ciudad-en-los-andes.jpg?s=612x612&w=0&k=20&c=Q9BgToJB-7MPFblD16OMkKUVr_fXpz3zpAQguT36Bj0=);*/
+    background-color:rgb(192, 138, 99);
+    width: 92.5%;
+    height:80px;
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    font-size: 85px;
+    text-shadow: 5px 5px 3px rgb(139, 102, 37);
+    padding: 50px; 
+    color:black; 
+    margin:0px;
+}
+.img0{
+position:absolute;
+top:25px;
+left:20px;
+}
+.img00{
+    position:absolute;
+    top:25px;
+    right: 20px;
+}
+body{
+    background-image: url(../img/fffffff2.jpeg);   
+}
+.contenido{
+    margin:40px;
+}
+.caja1{
+    border:1px solid black;
+    background-color: rgb(236, 222, 64);   
+    width: 450px;
+    height: 300px;
+    float:left;
+    margin:20px;
+    margin-left:100px;
+    padding: 15px;
+    text-align: justify;
+    border-radius:20px;
+    font-size: 19px;
+    box-shadow: -5px 5px 5px black;
+}
+
+iframe{
+    float:right;
+    margin-right: 40px;
+    margin-top:30px;
+    margin-bottom: 40px;
+    border:7px solid rgb(170, 158, 31);
+}
+h2{
+    font-size:50px;
+    margin:25px;
+    text-align: center;
+    text-decoration: underline;
+    color:rgb(30, 30, 74);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.parte2{
+    margin-top:400px;
+    font-size:21px;
+    background-color: rgb(164, 230, 102);
+    padding:25px;
+    border-radius:20px;
+    border:15px rgb(25, 148, 31) double;
+}
+form,p{
+    font-size:21px;
+}
+p{
+    color:red;
+    font-style:italic;
+}
+textarea{
+   background-color: rgb(235, 253, 253);
+   width: 99%;
+   height: 150px;
+    resize:none
+}
+input[type=text]{
+    box-sizing: border-box;
+    width: 100%;
+    height: 34px;
+    padding:10px;
+}
+input[type=text]:focus{
+    background-color: #ccc;
+    transition-duration: 2000ms;
+    outline:none;
+}
+INPUT[type=submit]{
+    float:right;
+    margin:30px;
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 10px;
+}
+footer{
+    background-color:rgb(192, 138, 99);
+    height: 130px;
+    padding:25px;
+    font-size:21px;
+}
+.imgx{
+    float:left;
+    margin-right: 7px;
+ }
+ .imgxx{
+     float:left;
+     margin-right: 7px;
+  }
+

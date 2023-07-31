@@ -1,0 +1,92 @@
+*{
+    margin: 0px;
+    padding: 0px; 
+   
+}
+header{
+    /*background-image:url(https://media.istockphoto.com/id/468599522/es/foto/panorama-del-inca-machu-picchu-p%C3%A9rdida-de-la-ciudad-en-los-andes.jpg?s=612x612&w=0&k=20&c=Q9BgToJB-7MPFblD16OMkKUVr_fXpz3zpAQguT36Bj0=);*/
+    background-color:rgb(244, 152, 60);
+    width: 95.5%;
+    height:90px;
+    font-family: 'Borel', cursive;
+    font-family: 'Edu SA Beginner', cursive;
+    text-align: center;
+    font-size: 60px;
+    text-shadow: 8px 8px 8px rgb(144, 44, 19);
+    padding:30px; 
+    color:black;  
+}
+body{
+    background-image: url(../img/fffffff2.jpeg);
+    
+}
+.contenido{
+    margin:40px;
+    font-size: 21px;
+    text-align: justify;
+}
+dt{
+    text-align: center;
+    text-transform:uppercase;
+    font-size:30px;
+    font-family: 'Anton', sans-serif;
+}
+.img1{
+    margin-left: 450px;
+    border:rgb(27, 109, 112) 10px solid;
+}
+.img2{
+    margin-left: 200px;
+    border:rgb(238, 121, 71) 10px solid;
+}
+.img3{
+    margin-left: 180px;
+    border:rgb(202, 171, 29) 10px solid;
+}
+.img4{
+    margin-left: 450px;
+    border:rgb(217, 70, 227) 10px solid;
+}
+.img5{
+    margin-left: 450px;
+    border:rgb(235, 85, 113) 10px solid;
+}
+.img6{
+    margin-left: 450px;
+    border:rgb(144, 44, 19) 10px solid;
+}
+dt{
+    background-color: bisque;
+    
+
+}
+main a{
+    border:1px solid rgb(108, 103, 103);
+    background-color: rgb(118, 112, 112);
+    padding: 15px;
+    border-radius:10px;
+    color:white;
+    font-size: 20px;
+    transition-duration:1000ms;
+
+}
+article a:hover{
+    background-color: yellow;
+    color:black;
+
+}
+footer{
+    background-color:rgb(244, 152, 60);
+    padding:25px;
+    height: 130px;
+    width: 94%;
+    font-size:20px;
+}
+.imgx{
+    float:left;
+    margin-right: 7px;
+ }
+ .imgxx{
+     float:left;
+     margin-right: 7px;
+  }
